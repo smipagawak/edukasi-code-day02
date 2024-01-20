@@ -1,2 +1,2 @@
-# edukasi-code-day02
-Belajar HTML dasar
+# edukasi-code-day02-2024
+Belajar dasar HTML 
